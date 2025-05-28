@@ -1,6 +1,8 @@
 # T5 From Scratch: A Complete PyTorch Implementation
 
-A comprehensive, production-ready implementation of the T5 (Text-to-Text Transfer Transformer) model from scratch in PyTorch, following the original research paper specifications.
+Work in progress!!  (filled with errors rn)
+
+<!-- A comprehensive, production-ready implementation of the T5 (Text-to-Text Transfer Transformer) model from scratch in PyTorch, following the original research paper specifications.
 
 ## 🎯 Overview
 
@@ -62,16 +64,16 @@ Our implementation follows the original T5 paper specifications:
 - ✅ Example scripts and tutorials
 - ✅ Configuration management
 
-## 🔬 Research Compliance
+## 🔬 Research Compliance -->
 
 This implementation strictly follows the original T5 paper:
 
 > Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. Journal of Machine Learning Research, 21(140), 1-67.
 
-Key architectural choices:
+<!-- Key architectural choices:
 - Pre-norm layer normalization placement
 - Relative position bias computation
 - Span corruption pre-training objective
-- Text-to-text task formatting
+- Text-to-text task formatting -->
 
 
