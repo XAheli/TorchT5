@@ -1,0 +1,16 @@
+# PyTorch components
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Core dependencies
+transformers>=4.25.0
+sentencepiece>=0.1.97
+numpy>=1.21.0
+tqdm>=4.64.0
+
+# Optional dependencies
+wandb>=0.13.0
+datasets>=2.8.0
+sacrebleu>=2.3.0
+rouge-score>=0.1.2
